@@ -1,7 +1,7 @@
 ## Exercice : les arbres visibles
 
 On considère un verger dont les arbres occupent tous les points
-$(x,y)\in\{1,\ldots,N\}^2$ du quart de plan positif
+$(x,y)\in\{N^*}^2$ du quart de plan positif
 
 Un observateur est placé à l'origine $O=(0,0)$
 
